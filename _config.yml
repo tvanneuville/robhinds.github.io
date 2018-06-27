@@ -1,6 +1,6 @@
 # Site settings
 title: Curriculum Vitae Thomas Vanneuville
-name: Thomas Vanneuville
+name: Thomas Vanneuville-
 
 # Build settings
 markdown: kramdown
@@ -62,9 +62,10 @@ github:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <a target='_blank' href="https://trouw-app-heroku.herokuapp.com/"><strong>Trouw webapp</strong></a>: Because managing invitations for a wedding can be a exhausting task, I am working on a <a target='_blank' href="https://trouw-app-heroku.herokuapp.com/"> webappplication</a> in Flask that will make this a lot easier! <br/><br/>
+   <a target='_blank' href="https://trouw-app-heroku.herokuapp.com/"><strong>Trouw webapp</strong></a>: Because managing invitations for a wedding can be a exhausting task, I am working on a webapplication in Flask that will make this a lot easier! <br/><br/>
    
-  <a target='_blank' href="http://35.204.95.41/"><strong>LNCipedia </strong></a>: During my Internship i worked on lncipedia. LNCipedia is an online database that is highly used in cancer research. This website is built on Mojolicious, a Perl MVC framework. I made a new responsive interface for LNCipedia. Clicking on the title will bring you to the <a target='_blank' href="http://35.204.95.41/">devolpment version</a> of LNCipedia. I also made a Webapp from a tool I developed there. <a target='_blank' href="https://find-conservation.herokuapp.com/"> find conservation app </a> This tool calculates if RNA is conserved in other species.<br/><br/>
+   <a target='_blank' href="http://35.204.95.41/"><strong>LNCipedia </strong></a>: During my Internship i worked on lncipedia. LNCipedia is an online database that is highly used in cancer research. This website is built on Mojolicious, a Perl MVC framework. I made a new responsive interface for LNCipedia. Clicking on the title will bring you to the development version of LNCipedia. I also made a Webapp from a tool I developed there <a target='_blank' href="https://find-conservation.herokuapp.com/"> find conservation app </a><br/><br/>
    
    <strong>Linux and Raspberry Pi</strong>: Because I am a nerd, I enjoy fooling around with my Raspberry Pi. I wrote a script that records my favorite podcast: 'de filefuif' on studio brussel. And I also wrote a script to detect <a target='_blank' href="https://github.com/tvanneuville/warframe-alerts"> Warframe alerts</a>. 
+   
    
