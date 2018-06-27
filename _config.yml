@@ -1,6 +1,6 @@
 # Site settings
-title: Thomas' CV
-name: Thomas Vanneuville
+title: Curriculum Vitae Thomas Vanneuville
+name: Thomas Vanneuville-
 
 # Build settings
 markdown: kramdown
@@ -18,34 +18,39 @@ skills:
  - Python
  - Flask
  - SQL
+ - Linux
  - HTML
  - CSS
  - SASS
 
 #Work experience is required
 roles:
- - title: Senior Engineer
-   start: 2016
-   end: Ongoing
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+ - title: Inernship Bio-Informatics
+   start: April 2018 
+   end: June 2018
+   employer: Centrum Medische Genetica Gent
+   description: Development of a responsive interface for RNA database LNCipedia.
+ - title: Lab Technician Microbiology
+   start: Dec 2016
+   end: Sep 2017
+   employer: Medisch Labo Bruyland Kortrijk
+   description: Lab technician Microbiology
+ - title: Lab Techician Microbiology
+   start: Feb 2016
+   end: Dec 2016
+   employer: AZ Damiaan Oostende
+   description: Lab Techician Microbiology
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Advanced Bachelor
+   date: 2017
+   subject: Bio-Informatics
+   school: Hogeschool West-Vlaanderen
+ - level: Bachelor of Applied Science 
+   date: 2012
+   subject: Medical Laboratory Technology
+   school: Hogeschool Vives Noord
 
 #List of interesting Github repo/projects to include - optional
 github:
@@ -55,9 +60,9 @@ github:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>). <br/><br/>
-   <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework (although current role uses ColdFusion for server side web stack). I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/Parse. <br/><br/>
-   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+   <strong>Trouw webapp</strong>: Because managing invitations for a wedding can be a exhausting task, I am working on a webapplication in Flask that will make this a lot easier! <a target='_blank' href="https://trouw-app-heroku.herokuapp.com/"> Trouw app </a> <br/><br/>
+   
+   <strong>LNCipedia </strong>: During my Internship i worked on lncipedia. This website is built on Mojolicious, a Perl framework. I made a new interface for LNCipedia <a target='_blank' href="http://35.204.95.41/">View the development version here </a> I also made a Webapp from a tool i developed there <a target='_blank' href="https://find-conservation.herokuapp.com/"> find conservation app </a><br/><br/>.
+   
+   <strong>Linux and Raspberry Pie</strong>: Because i am a nerd, I enjoy fooling around with my Raspberry Pie. I wrote a script that records my favorite podcast: 'de filefuif' op studio brussel. And i also wrote a script to detect <a target='_blank' href="https://github.com/tvanneuville/warframe-alerts"> Warframe alerts</a>. 
+   
