@@ -1,5 +1,5 @@
 # Site settings
-title: Thomas CV
+title: Thomas' CV
 name: Thomas Vanneuville
 
 # Build settings
@@ -8,31 +8,19 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://github.com/tvanneuville
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/in/thomasvanneuville/
 
 #Any buzzword skills you want to include
 skills:
- - Groovy
- - Spring MVC
- - Spring Boot
- - Gradle
- - Java
- - JPA
+ - Python
+ - Flask
  - SQL
- - REST
- - Tech Architecture
-
-#Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
+ - HTML
+ - CSS
+ - SASS
 
 #Work experience is required
 roles:
