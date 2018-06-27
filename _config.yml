@@ -66,5 +66,5 @@ additionalinfo: |
    
   <a target='_blank' href="http://35.204.95.41/"><strong>LNCipedia </strong></a>: During my Internship i worked on lncipedia. LNCipedia is an online database that is highly used in cancer research. This website is built on Mojolicious, a Perl MVC framework. I made a new responsive interface for LNCipedia. Clicking on the title will bring you to the <a target='_blank' href="http://35.204.95.41/">devolpment version</a> of LNCipedia. I also made a Webapp from a tool I developed there. <a target='_blank' href="https://find-conservation.herokuapp.com/"> find conservation app </a> This tool calculates if RNA is conserved in other species.<br/><br/>
    
-   <strong>Linux and Raspberry Pie</strong>: Because I am a nerd, I enjoy fooling around with my Raspberry Pie. I wrote a script that records my favorite podcast: 'de filefuif' on studio brussel. And I also wrote a script to detect <a target='_blank' href="https://github.com/tvanneuville/warframe-alerts"> Warframe alerts</a>. 
+   <strong>Linux and Raspberry Pi</strong>: Because I am a nerd, I enjoy fooling around with my Raspberry Pi. I wrote a script that records my favorite podcast: 'de filefuif' on studio brussel. And I also wrote a script to detect <a target='_blank' href="https://github.com/tvanneuville/warframe-alerts"> Warframe alerts</a>. 
    
